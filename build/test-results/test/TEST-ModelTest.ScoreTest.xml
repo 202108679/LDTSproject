@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ModelTest.ScoreTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-21T12:43:16" hostname="LAPTOP-S5A2TRNS" time="0.017">
+  <properties/>
+  <testcase name="processoNivelandgetTempoTest1()" classname="ModelTest.ScoreTest" time="0.005"/>
+  <testcase name="processoNivelandgetTempoTest2()" classname="ModelTest.ScoreTest" time="0.001"/>
+  <testcase name="getSetTest()" classname="ModelTest.ScoreTest" time="0.001"/>
+  <testcase name="linhasProcessadasTest()" classname="ModelTest.ScoreTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

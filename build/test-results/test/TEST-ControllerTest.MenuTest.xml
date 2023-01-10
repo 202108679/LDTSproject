@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ControllerTest.MenuTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-21T12:43:15" hostname="LAPTOP-S5A2TRNS" time="0.14">
+  <properties/>
+  <testcase name="atualizarFimJogoTest()" classname="ControllerTest.MenuTest" time="0.098"/>
+  <testcase name="verificarImputTest1()" classname="ControllerTest.MenuTest" time="0.036"/>
+  <testcase name="verificarImputTest2()" classname="ControllerTest.MenuTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
